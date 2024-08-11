@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricky Davidson</h1>
 <h3 align="center">A passionate frontend developer from India,Tamilnadu, Chennai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricky6363&label=Profile%20views&color=0e75b6&style=flat" alt="ricky6363" /> </p>
 
 - 🔭 I’m currently working on [Shadowfox website re-design](https://www.figma.com/proto/sNkhIAK9xi4pkJuQaO3uFT/ShadowFox?node-id=0-4131&starting-point-node-id=0%3A4131)
 
