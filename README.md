@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://ricky6363.github.io/Encryptix_Task2/](https://ricky6363.github.io/Encryptix_Task2/)
+- 👨‍💻 All of my projects are available at [[https://ricky6363.github.io/Encryptix_Task2/](https://ricky6363.github.io/Encryptix_Task2/](https://ricky6363.github.io/Rickydavidson/index.html#portfolio))
 
 - 💬 Ask me about **Web Content creation, UI/UX design, Web Flow.**
 
