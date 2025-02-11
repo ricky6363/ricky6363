@@ -3,7 +3,9 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 <br>
-- 🔭 I’m currently working on [Shadowfox website re-design](https://www.figma.com/proto/sNkhIAK9xi4pkJuQaO3uFT/ShadowFox?node-id=0-4131&starting-point-node-id=0%3A4131)
+- 🔭 Now Currentely working For https://thesynaesthesia.com/ Synaesthesia team as an junior web developer. Using Wordpress, Figma, Wix Studio, Adobe XD. Working on Client Projects, an real world website development from scratch.
+
+- 🔭 I had worked on [Shadowfox website re-design](https://www.figma.com/proto/sNkhIAK9xi4pkJuQaO3uFT/ShadowFox?node-id=0-4131&starting-point-node-id=0%3A4131)
 
 - 🌱 I’m currently learning **MERN Stack**
 
