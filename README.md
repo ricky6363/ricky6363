@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rickydavidson.25cs@licet.ac.in**
 
-- 📄 Know about my experiences [https://ricky6363.github.io/Encryptix_Task2/Rickydavidson-19092003-Chennai%20(2).pdf](https://ricky6363.github.io/Encryptix_Task2/Rickydavidson-19092003-Chennai%20(2).pdf)
+- 📄 Know about my experiences [ https://rickydavidson.my.canva.site/homepage ]
 
 - ⚡ Fun fact **I am Batman**
 
