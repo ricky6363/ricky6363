@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at (https://ricky6363.github.io/Rickydavidson/index.html#portfolio)
+- 👨‍💻 All of my projects are available at [ https://rickydavidson.my.canva.site/homepage ]
 
 - 💬 Ask me about **Web Content creation, UI/UX design, Web Flow.**
 
 - 📫 How to reach me **rickydavidson.25cs@licet.ac.in**
 
-- 📄 Know about my experiences [ https://rickydavidson.my.canva.site/homepage ]
+- 📄 Know about my experiences [ https://ricky6363.github.io/Rickydavidson/index.html#portfolio ]
 
 - ⚡ Fun fact **I am Batman**
 
